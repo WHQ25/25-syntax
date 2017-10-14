@@ -1,13 +1,16 @@
 {
   "name": "25-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.1.0",
+  "description": "25's dark colorful syntax theme.",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "25",
+    "colorful",
+    "dark"
   ],
-  "repository": "https://github.com/atom/25-syntax",
+  "repository": "https://github.com/WHQ25/25-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
